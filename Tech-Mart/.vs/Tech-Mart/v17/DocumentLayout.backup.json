@@ -1,34 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\4-Git\\Tech-Mart\\Tech-Mart\\",
+  "WorkspaceRootPath": "E:\\4-Git\\Tech-Market\\Tech-Mart\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DD43FD19-565C-47D8-A117-53C12BB4F038}|Tech-Mart.csproj|e:\\4-git\\tech-mart\\tech-mart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD43FD19-565C-47D8-A117-53C12BB4F038}|Tech-Mart.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD43FD19-565C-47D8-A117-53C12BB4F038}|Tech-Mart.csproj|e:\\4-git\\tech-mart\\tech-mart\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD43FD19-565C-47D8-A117-53C12BB4F038}|Tech-Mart.csproj|solutionrelative:areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD43FD19-565C-47D8-A117-53C12BB4F038}|Tech-Mart.csproj|e:\\4-git\\tech-mart\\tech-mart\\models\\viewmodel\\productwithmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD43FD19-565C-47D8-A117-53C12BB4F038}|Tech-Mart.csproj|solutionrelative:models\\viewmodel\\productwithmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD43FD19-565C-47D8-A117-53C12BB4F038}|Tech-Mart.csproj|e:\\4-git\\tech-mart\\tech-mart\\areas\\admin\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DD43FD19-565C-47D8-A117-53C12BB4F038}|Tech-Mart.csproj|solutionrelative:areas\\admin\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD43FD19-565C-47D8-A117-53C12BB4F038}|Tech-Mart.csproj|e:\\4-git\\tech-mart\\tech-mart\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DD43FD19-565C-47D8-A117-53C12BB4F038}|Tech-Mart.csproj|solutionrelative:areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD43FD19-565C-47D8-A117-53C12BB4F038}|Tech-Mart.csproj|e:\\4-git\\tech-mart\\tech-mart\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD43FD19-565C-47D8-A117-53C12BB4F038}|Tech-Mart.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD43FD19-565C-47D8-A117-53C12BB4F038}|Tech-Mart.csproj|e:\\4-git\\tech-mart\\tech-mart\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DD43FD19-565C-47D8-A117-53C12BB4F038}|Tech-Mart.csproj|solutionrelative:areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DD43FD19-565C-47D8-A117-53C12BB4F038}|Tech-Mart.csproj|e:\\4-git\\tech-market\\tech-mart\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD43FD19-565C-47D8-A117-53C12BB4F038}|Tech-Mart.csproj|solutionrelative:areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,20 +14,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 595,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "E:\\4-Git\\Tech-Mart\\Tech-Mart\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\ProductController.cs",
-              "ToolTip": "E:\\4-Git\\Tech-Mart\\Tech-Mart\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "Areas\\Admin\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T03:17:02.327Z",
-              "IsPinned": true
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\4-Git\\Tech-Market\\Tech-Mart\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\4-Git\\Tech-Market\\Tech-Mart\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAtwIwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T20:02:03.24Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -60,79 +36,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\4-Git\\Tech-Mart\\Tech-Mart\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "E:\\4-Git\\Tech-Mart\\Tech-Mart\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAiwCMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T16:47:48.498Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductWithModel.cs",
-              "DocumentMoniker": "E:\\4-Git\\Tech-Mart\\Tech-Mart\\Models\\ViewModel\\ProductWithModel.cs",
-              "RelativeDocumentMoniker": "Models\\ViewModel\\ProductWithModel.cs",
-              "ToolTip": "E:\\4-Git\\Tech-Mart\\Tech-Mart\\Models\\ViewModel\\ProductWithModel.cs",
-              "RelativeToolTip": "Models\\ViewModel\\ProductWithModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T06:25:52.681Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "E:\\4-Git\\Tech-Mart\\Tech-Mart\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Product\\Edit.cshtml",
-              "ToolTip": "E:\\4-Git\\Tech-Mart\\Tech-Mart\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Product\\Edit.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAkwDIAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-17T06:07:43.846Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Product.cs",
-              "DocumentMoniker": "E:\\4-Git\\Tech-Mart\\Tech-Mart\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Models\\Product.cs",
-              "ToolTip": "E:\\4-Git\\Tech-Mart\\Tech-Mart\\Models\\Product.cs",
-              "RelativeToolTip": "Models\\Product.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAgwBMAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T04:45:49.11Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "E:\\4-Git\\Tech-Mart\\Tech-Mart\\Areas\\Admin\\Views\\Product\\Create.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Product\\Create.cshtml",
-              "ToolTip": "E:\\4-Git\\Tech-Mart\\Tech-Mart\\Areas\\Admin\\Views\\Product\\Create.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Product\\Create.cshtml",
-              "ViewState": "AgIAABYAAAAAAAAAAAAwwCMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-17T04:31:51.209Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\4-Git\\Tech-Mart\\Tech-Mart\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "ToolTip": "E:\\4-Git\\Tech-Mart\\Tech-Mart\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "ViewState": "AgIAACMAAAAAAAAAAAAqwDgAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-17T03:17:27.151Z"
             }
           ]
         }
